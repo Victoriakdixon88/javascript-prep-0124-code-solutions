@@ -10,5 +10,5 @@ console.log(thirdElement);
 const length = languages.length;
 console.log(length);
 
-const lastElement =length [5];
-console.log(languages)
+const lastElement = languages [length - 1]
+console.log(lastElement)
